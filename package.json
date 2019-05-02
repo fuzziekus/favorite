@@ -6,6 +6,6 @@
     "compression": "*",
     "express": "*",
     "morgan": "*",
-    "jade": "*"
+    "serve-static": "*"
   }
 }
